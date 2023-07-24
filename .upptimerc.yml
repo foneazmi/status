@@ -6,7 +6,7 @@ sites:
   - name: Khan
     url: https://khan.my.id
   - name: Pocketbase
-    url: https://pb.khan.my.id/_
+    url: https://pb.khan.my.id/api/health
   - name: Drive
     url: https://pub.khan.my.id
 
