@@ -4,8 +4,11 @@ repo: status # The name of this repository
 user-agent: foneazmi
 
 sites:
-  - name: Khan
+  - name: Web Khan
     url: https://khan.my.id
+    icon: https://khan.my.id/icon.svg
+  - name: Api Khan
+    url: https://api.khan.my.id
     icon: https://khan.my.id/icon.svg
   - name: Pocket Base
     url: https://pb.khan.my.id/api/health
