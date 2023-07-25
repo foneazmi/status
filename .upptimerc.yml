@@ -20,7 +20,7 @@ assignees:
   - foneazmi
 
 status-website:
-  theme: ocean
+  theme: night
   cname: foneazmi.github.io/status
   baseUrl: /status
   logoUrl: https://khan.my.id/icon.svg
@@ -28,8 +28,6 @@ status-website:
   navbar:
     - title: About Me
       href: https://khan.my.id
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
   graphs: "0 0 * * *"
