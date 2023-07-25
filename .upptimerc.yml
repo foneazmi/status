@@ -20,14 +20,14 @@ assignees:
   - foneazmi
 
 status-website:
-  theme: night
+  theme: ocean
   cname: foneazmi.github.io/status
   baseUrl: /status
   logoUrl: https://khan.my.id/icon.svg
-  name: Status Page
+  name: Status
   navbar:
-    - title: Status
-      href: /
+    - title: About Me
+      href: https://khan.my.id
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
