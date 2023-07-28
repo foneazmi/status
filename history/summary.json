@@ -5,18 +5,18 @@
     "icon": "https://khan.my.id/icon.svg",
     "slug": "web-khan",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 999,
-    "timeDay": 853,
-    "timeWeek": 999,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "uptime": "99.81%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1683,
+    "timeDay": 2638,
+    "timeWeek": 1683,
+    "timeMonth": 1683,
+    "timeYear": 1683,
     "dailyMinutesDown": {
-      "2023-07-28": 1
+      "2023-07-28": 11
     }
   },
   {
