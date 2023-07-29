@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1603,
-    "timeDay": 2607,
+    "timeDay": 801,
     "timeWeek": 1603,
     "timeMonth": 1603,
     "timeYear": 1603,
@@ -58,17 +58,19 @@
     "url": "https://pub.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/pub.khan.my.id.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 624,
-    "timeWeek": 887,
-    "timeMonth": 887,
-    "timeYear": 887,
-    "dailyMinutesDown": {}
+    "time": 883,
+    "timeDay": 741,
+    "timeWeek": 883,
+    "timeMonth": 883,
+    "timeYear": 883,
+    "dailyMinutesDown": {
+      "2023-07-29": 0
+    }
   }
 ]
