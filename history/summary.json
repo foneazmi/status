@@ -5,19 +5,17 @@
     "icon": "https://khan.my.id/icon.svg",
     "slug": "web-khan",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1683,
-    "timeDay": 2638,
-    "timeWeek": 1683,
-    "timeMonth": 1683,
-    "timeYear": 1683,
-    "dailyMinutesDown": {
-      "2023-07-28": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1603,
+    "timeDay": 2607,
+    "timeWeek": 1603,
+    "timeMonth": 1603,
+    "timeYear": 1603,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Api Khan",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 929,
-    "timeWeek": 920,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "time": 895,
+    "timeDay": 772,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 916,
-    "timeWeek": 838,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "time": 810,
+    "timeDay": 619,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 914,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "time": 887,
+    "timeDay": 624,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {}
   }
 ]
