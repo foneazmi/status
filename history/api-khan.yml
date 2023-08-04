@@ -1,7 +1,7 @@
 url: https://api.khan.my.id
-status: up
-code: 200
-responseTime: 971
-lastUpdated: 2023-08-03T23:14:39.316Z
+status: down
+code: 502
+responseTime: 1224
+lastUpdated: 2023-08-04T02:47:53.928Z
 startTime: Mon Jul 24 2023 10:18:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
