@@ -4,36 +4,39 @@
     "url": "https://khan.my.id",
     "icon": "https://khan.my.id/icon.svg",
     "slug": "web-khan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1214,
     "timeDay": 919,
     "timeWeek": 887,
     "timeMonth": 1214,
     "timeYear": 1214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 3
+    }
   },
   {
     "name": "Api Khan",
     "url": "https://api.khan.my.id",
     "icon": "https://khan.my.id/icon.svg",
     "slug": "api-khan",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.87%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1119,
     "timeDay": 906,
-    "timeWeek": 1226,
+    "timeWeek": 1281,
     "timeMonth": 1119,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2023-08-11": 2,
       "2023-08-08": 19,
       "2023-08-04": 2
     }
@@ -43,9 +46,9 @@
     "url": "https://pb.khan.my.id/api/health",
     "icon": "https://pocketbase.io/images/favicon/favicon-32x32.png",
     "slug": "pocket-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +57,9 @@
     "timeWeek": 924,
     "timeMonth": 1000,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "Drive",
