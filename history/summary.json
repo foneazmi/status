@@ -23,11 +23,11 @@
     "icon": "https://khan.my.id/icon.svg",
     "slug": "api-khan",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1105,
     "timeDay": 1045,
     "timeWeek": 1328,
@@ -62,7 +62,7 @@
     "url": "https://pub.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/pub.khan.my.id.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +74,7 @@
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2023-08-15": 0,
       "2023-07-29": 21
     }
   }
