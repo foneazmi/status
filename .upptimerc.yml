@@ -13,8 +13,8 @@ sites:
   - name: Pocket Base
     url: https://pb.khan.my.id/api/health
     icon: https://pocketbase.io/images/favicon/favicon-32x32.png
-  - name: Drive
-    url: https://pub.khan.my.id
+  - name: File Khan
+    url: https://file.khan.my.id
 
 assignees:
   - foneazmi
