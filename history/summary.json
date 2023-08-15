@@ -56,5 +56,23 @@
     "timeMonth": 1002,
     "timeYear": 1002,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "File Khan",
+    "url": "https://file.khan.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/file.khan.my.id.ico",
+    "slug": "file-khan",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1039,
+    "timeDay": 1039,
+    "timeWeek": 1039,
+    "timeMonth": 1039,
+    "timeYear": 1039,
+    "dailyMinutesDown": {}
   }
 ]
