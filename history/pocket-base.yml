@@ -1,7 +1,7 @@
 url: https://pb.khan.my.id/api/health
-status: down
-code: 525
-responseTime: 2872
-lastUpdated: 2024-03-22T13:35:37.101Z
+status: up
+code: 200
+responseTime: 1640
+lastUpdated: 2024-03-22T13:47:00.134Z
 startTime: Mon Jul 24 2023 04:45:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
