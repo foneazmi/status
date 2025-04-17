@@ -5,10 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: Khan
     url: https://khan.my.id
+  - name: Api Khan
+    url: https://api.khan.my.id
+  - name: Api Khan Go
+    url: https://api-go.khan.my.id
   - name: Files
     url: https://file.khan.my.id
-  - name: DB
-    url: https://pb.khan.my.id/_
+  - name: Pocketbase
+    url: $PB_URL
 assignees:
   - foneazmi
 status-website:
