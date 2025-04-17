@@ -16,7 +16,7 @@ sites:
 assignees:
   - foneazmi
 status-website:
-  cname: https://status.khan.my.id
+  cname: status.khan.my.id
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   navbar:
