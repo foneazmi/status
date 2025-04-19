@@ -22,18 +22,20 @@
     "url": "https://api.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/api.khan.my.id.ico",
     "slug": "api-khan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 891,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1141,
+    "timeDay": 953,
+    "timeWeek": 1141,
+    "timeMonth": 1141,
+    "timeYear": 1141,
+    "dailyMinutesDown": {
+      "2025-04-19": 0
+    }
   },
   {
     "name": "Api Khan Go",
