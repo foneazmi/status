@@ -1,7 +1,7 @@
 url: $PB_URL
-status: up
-code: 200
-responseTime: 1181
-lastUpdated: 2025-05-29T23:17:34.284Z
+status: down
+code: 522
+responseTime: 19717
+lastUpdated: 2025-05-30T21:43:57.705Z
 startTime: 2025-04-17T16:10:01.869Z
 generator: Upptime <https://github.com/upptime/upptime>
