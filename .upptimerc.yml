@@ -7,10 +7,10 @@ sites:
     url: https://khan.my.id
   - name: Api Khan
     url: https://api.khan.my.id
-  - name: Api Khan Go
-    url: https://api-go.khan.my.id
   - name: Files
     url: https://file.khan.my.id
+  - name: Stock
+    url: https://stock.khan.my.id
   - name: Pocketbase
     url: $PB_URL
 assignees:
