@@ -4,19 +4,19 @@
     "url": "https://khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/khan.my.id.ico",
     "slug": "khan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 269,
-    "timeWeek": 303,
-    "timeMonth": 294,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 355,
+    "timeDay": 268,
+    "timeWeek": 300,
+    "timeMonth": 293,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-08-10": 0
+      "2025-08-10": 26
     }
   },
   {
