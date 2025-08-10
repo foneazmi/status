@@ -4,18 +4,20 @@
     "url": "https://khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/khan.my.id.ico",
     "slug": "khan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 311,
-    "timeWeek": 334,
-    "timeMonth": 300,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 267,
+    "timeWeek": 320,
+    "timeMonth": 297,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2025-08-10": 0
+    }
   },
   {
     "name": "Api Khan",
