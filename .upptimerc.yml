@@ -11,6 +11,8 @@ sites:
     url: https://file.khan.my.id
   - name: Stock
     url: https://stock.khan.my.id
+  - name: Bookkeeping
+    url: https://ez.khan.my.id
   - name: Pocketbase
     url: $PB_URL
 assignees:
