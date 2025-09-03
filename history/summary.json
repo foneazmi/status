@@ -98,19 +98,19 @@
     "url": "https://ez.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/ez.khan.my.id.ico",
     "slug": "bookkeeping",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 989,
-    "timeDay": 1030,
-    "timeWeek": 989,
-    "timeMonth": 989,
-    "timeYear": 989,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 1083,
+    "timeDay": 1141,
+    "timeWeek": 1083,
+    "timeMonth": 1083,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2025-09-03": 0
+      "2025-09-03": 20
     }
   },
   {
