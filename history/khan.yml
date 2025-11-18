@@ -1,7 +1,7 @@
 url: https://khan.my.id
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2025-11-18T12:16:12.510Z
+status: down
+code: 500
+responseTime: 315
+lastUpdated: 2025-11-18T13:02:37.458Z
 startTime: 2025-04-17T16:02:08.353Z
 generator: Upptime <https://github.com/upptime/upptime>
