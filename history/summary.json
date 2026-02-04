@@ -124,9 +124,9 @@
     "url": "https://stock.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/stock.khan.my.id.ico",
     "slug": "stock",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -136,6 +136,7 @@
     "timeMonth": 286,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-11-18": 126
     }
   },
@@ -182,11 +183,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pocketbase",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.53%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 2732,
     "timeDay": 1157,
     "timeWeek": 1172,
