@@ -193,17 +193,17 @@
     "url": "$PB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pocketbase",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 2391,
-    "timeDay": 23999,
-    "timeWeek": 6918,
-    "timeMonth": 2729,
-    "timeYear": 2344,
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.36%",
+    "time": 2390,
+    "timeDay": 16480,
+    "timeWeek": 6309,
+    "timeMonth": 2690,
+    "timeYear": 2342,
     "dailyMinutesDown": {
       "2025-09-29": 58,
       "2025-09-30": 20,
@@ -227,7 +227,7 @@
       "2026-04-23": 18,
       "2026-05-03": 58,
       "2026-06-06": 393,
-      "2026-08-17": 0
+      "2026-08-17": 35
     }
   }
 ]
