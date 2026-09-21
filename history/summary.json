@@ -148,17 +148,17 @@
     "url": "https://ez.khan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/ez.khan.my.id.ico",
     "slug": "bookkeeping",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.31%",
-    "time": 1720,
-    "timeDay": 19938,
-    "timeWeek": 5591,
-    "timeMonth": 2007,
-    "timeYear": 1713,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "79.26%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.25%",
+    "time": 1719,
+    "timeDay": 13627,
+    "timeWeek": 5082,
+    "timeMonth": 1977,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2025-09-29": 58,
       "2025-10-30": 130,
@@ -186,7 +186,7 @@
       "2026-06-06": 393,
       "2026-08-12": 56,
       "2026-08-17": 30,
-      "2026-09-21": 4
+      "2026-09-21": 299
     }
   },
   {
@@ -194,17 +194,17 @@
     "url": "$PB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pocketbase",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
-    "time": 2516,
-    "timeDay": 20192,
-    "timeWeek": 6071,
-    "timeMonth": 2721,
-    "timeYear": 2565,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "79.47%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.29%",
+    "time": 2514,
+    "timeDay": 14062,
+    "timeWeek": 5597,
+    "timeMonth": 2693,
+    "timeYear": 2563,
     "dailyMinutesDown": {
       "2025-09-29": 58,
       "2025-09-30": 20,
@@ -230,7 +230,7 @@
       "2026-06-06": 393,
       "2026-08-17": 62,
       "2026-08-18": 33,
-      "2026-09-21": 0
+      "2026-09-21": 296
     }
   }
 ]
