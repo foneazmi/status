@@ -9,8 +9,8 @@ sites:
     url: https://api.khan.my.id
   - name: Files
     url: https://file.khan.my.id
-  - name: Stock
-    url: https://stock.khan.my.id
+  - name: Hono
+    url: https://hono.khandev.workers.dev
   - name: Bookkeeping
     url: https://ez.khan.my.id
   - name: Pocketbase
